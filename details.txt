@@ -1,0 +1,4 @@
+enter student details
+arun 
+varun 
+raj
